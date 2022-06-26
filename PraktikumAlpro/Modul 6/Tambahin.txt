@@ -1,0 +1,8 @@
+Hai selamat datang di Praktikum Modul 6 coba dong tambahin text ini dengan 
+Nama,Kelas,NIM, dan Motto ya
+
+=============================
+Nama : HANIP
+Kelas : SI4502
+NIM: 1202213005
+Motto : LARRY ADLAH IDOLA KU
